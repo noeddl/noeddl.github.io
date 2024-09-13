@@ -95,3 +95,9 @@ close_quotation_mark = "“"
 about_feeds = "Dies ist ein Web-Feed, auch bekannt als Atom-Feed. Abonnieren Sie, indem Sie die URL aus der Adressleiste in Ihren Nachrichtenleser kopieren. Besuchen Sie About Feeds, um mehr zu erfahren und loszulegen. Es ist kostenlos."
 visit_the_site = "Besuchen Sie die Webseite"
 recent_posts = "Aktuelle Beiträge"
+
+# Custom translation strings.
+name = "Name"
+email = "E-Mail-Adresse"
+message = "Nachricht"
+submit = "Abschicken"
