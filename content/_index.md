@@ -7,4 +7,4 @@ template = "index.html"
 header = {title = "Hello world!", img = "images/anett_quadro.jpg", img_alt = "Photo of Anett Seeker" }
 +++
 
-Hello, I'm Anett, a freelance software developer based in Berlin. I specialize in Python, Django, and Rust, and I prefer to work remotely. Let's create great software solutions together!
+I'm Anett, a computational linguist and freelance software developer based in Berlin. My main programming languages are Python and Rust, and I enjoy working with the Django framework for web development.

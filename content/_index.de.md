@@ -7,4 +7,4 @@ template = "index.html"
 header = {title = "Hallo Welt!", img = "images/anett_quadro.jpg", img_alt = "Foto von Anett Seeker" }
 +++
 
-Hallo, ich bin Anett, freiberufliche Softwareentwicklerin aus Berlin.Ich spezialisiere mich auf Python, Django und Rust und arbeite am liebsten remote. Lass uns gemeinsam großartige Softwarelösungen entwickeln!
+Ich bin Anett, Computerlinguistin und freiberufliche Softwareentwicklerin aus Berlin. Meine Hauptsprachen sind Python und Rust, und ich arbeite gerne mit dem Django-Framework für die Webentwicklung.
