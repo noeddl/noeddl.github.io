@@ -97,3 +97,5 @@ name = "Name"
 email = "Email address"
 message = "Message"
 submit = "Submit"
+about_me = "About me"
+
