@@ -161,12 +161,14 @@ invert_title_order = false
 # If a post doesn't have a social media card, the site's default, below, will be used.
 #social_media_card = "img/social_cards/index.jpg"
 
-#menu = [
+menu = [
+    { name = "about_me", url = "about/" },
+    { name = "contact", url = "contact/" },
 #    { name = "blog", url = "blog/" },
 #    { name = "archive", url = "archive/" },
 #    { name = "tags", url = "tags/" },
 #    { name = "projects", url = "projects/" },
-#]
+]
 
 # The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
 feed_icon = false
