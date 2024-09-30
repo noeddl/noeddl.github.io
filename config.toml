@@ -209,9 +209,9 @@ allowed_domains = [
     { directive = "font-src", domains = ["'self'", "data:"] },
     { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
     { directive = "media-src", domains = ["'self'", "https://cdn.jsdelivr.net/"] },
-    { directive = "script-src", domains = ["'self'"] },
-    { directive = "style-src", domains = ["'self'"] },
-    { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com"] },
+    { directive = "script-src", domains = ["'unsafe-inline'", "https://tally.so"] },
+    { directive = "style-src", domains = ["'self'", "'unsafe-inline'"] },
+    { directive = "frame-src", domains = ["https://tally.so"]}, #, "player.vimeo.com", "https://www.youtube-nocookie.com"] },
 ]
 
 # Enable the CSP directives configured (or default).
