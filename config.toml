@@ -195,8 +195,6 @@ socials = [
 footer_menu = [
     {url = "impressum", name = "Impressum", trailing_slash = true},
     {url = "privacy", name = "privacy", trailing_slash = true},
-    {url = "https://stats.osc.garden/", name = "site_statistics", trailing_slash = false},
-    {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
 ]
 
 # Custom security headers. What urls should your website be able to connect to?
