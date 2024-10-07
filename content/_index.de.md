@@ -7,4 +7,4 @@ template = "index.html"
 header = {title = "Hallo Welt!", img = "images/anett_quadro.jpg", img_alt = "Foto von Anett Seeker" }
 +++
 
-Ich bin Anett, Computerlinguistin und freiberufliche Softwareentwicklerin aus Berlin. Meine Hauptsprachen sind Python und Rust, und ich arbeite gerne mit dem Django-Framework für die Webentwicklung.
+Ich bin Anett Seeker, Computerlinguistin und freiberufliche Softwareentwicklerin aus Berlin. Meine Hauptsprachen sind Python und Rust, und ich arbeite gerne mit dem Django-Framework für die Webentwicklung.
