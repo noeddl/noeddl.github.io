@@ -14,9 +14,10 @@ tags = "Tags"
 projects = "Projekte"
 about = "Über"
 contact = "Kontakt"
-privacy = "Datenschutzrichtlinie"
+privacy = "Datenschutzerklärung"
 site_statistics = "Seitenstatistiken"
 sitemap = "Seitenübersicht"
+impressum = "Impressum"
 
 # Search.
 search = "Suchen"

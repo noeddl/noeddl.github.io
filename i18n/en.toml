@@ -13,6 +13,7 @@ contact = "Contact"
 privacy = "Privacy policy"
 site_statistics = "Site statistics"
 sitemap = "Sitemap"
+impressum = "Legal notice"
 
 # Search.
 search = "Search"

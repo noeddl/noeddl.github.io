@@ -193,7 +193,7 @@ socials = [
 
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
-    {url = "impressum", name = "Impressum", trailing_slash = true},
+    {url = "impressum", name = "impressum", trailing_slash = true},
     {url = "privacy", name = "privacy", trailing_slash = true},
 ]
 
