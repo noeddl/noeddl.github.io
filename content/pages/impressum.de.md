@@ -10,7 +10,7 @@ Laeh<!-- >@. -->rstr. 22<br />
 
 <h2>Kontakt</h2>
 <p>E-M<!-- >@. -->ail: mai<!-- >@. -->l@a<!-- @>. -->nett.<!-- .>@ -->dev<br />
-Kontaktformular: <a href="https://anett.dev/de/contact">https://anett.dev/de/contact</a></p>
+<a href="../contact">Kontaktformular</a></p>
 
 <h2>Umsatzsteuer-ID</h2>
 <p>Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect; 27 a Umsatzsteuergesetz:<br />

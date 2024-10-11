@@ -13,7 +13,7 @@ Germany</p>
 
 <h2>Contact</h2>
 <p>E-m<!-- >@. -->ail: mai<!-- >@. -->l@a<!-- @>. -->nett.<!-- .>@ -->dev<br />
-Contact form: <a href="https://anett.dev/contact">https://anett.dev/contact</a></p>
+<a href="../contact">Contact form</a></p>
 
 <h2>VAT ID</h2>
 <p>Sales tax identification number according to Sect. 27 a of the Sales Tax Law:<br />
