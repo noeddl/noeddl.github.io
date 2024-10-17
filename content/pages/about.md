@@ -6,7 +6,7 @@ path = "about"
 
 Hi! I’m Anett, a freelance software developer with years of experience writing thoughtful, clean, and well-documented code that stands the test of time – mainly in Python and Rust. I prefer working remotely, whether independently or collaborating with others, and I enjoy being part of international teams.
 
-With a solid background in Natural Language Processing (NLP), I’ve worked on a range of diverse projects, from improving chatbots to developing tools for spelling correction.
+With a solid background in Natural Language Processing (NLP) and Machine Learning, I’ve worked on a range of diverse projects, from improving chatbots to developing tools for spelling correction.
 
 I’ve also expanded my expertise in web development, and Django has become my framework of choice. Whether it's user-friendly backends or complex data analysis, I love building robust and flexible solutions.
 

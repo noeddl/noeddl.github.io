@@ -6,7 +6,7 @@ path = "de/about"
 
 Hallo! Ich bin Anett, freiberufliche Softwareentwicklerin mit langjähriger Erfahrung in der Entwicklung von durchdachtem, sauberem und gut dokumentiertem Code, der langfristig funktioniert – insbesondere in Python und Rust. Ich arbeite bevorzugt ortsunabhängig – sei es eigenständig oder im Austausch mit anderen, gerne auch in internationalen Teams.
 
-Mit einem starken Hintergrund in Natural Language Processing (NLP) habe ich an verschiedenen vielseitigen Projekten gearbeitet, von der Verbesserung von Chatbots bis hin zur Entwicklung von Tools für die Rechtschreibkorrektur.
+Mit einem starken Hintergrund in Natural Language Processing (NLP) und Machine Learning habe ich an verschiedenen vielseitigen Projekten gearbeitet, von der Verbesserung von Chatbots bis hin zur Entwicklung von Tools für die Rechtschreibkorrektur.
 
 Darüber hinaus habe ich meine Expertise in der Entwicklung von Webanwendungen ausgebaut, wobei Django zu meinem bevorzugten Werkzeug geworden ist. Ob benutzerfreundliche Backends oder komplexe Datenanalysen – ich arbeite gerne daran, robuste und flexible Lösungen zu schaffen.
 
