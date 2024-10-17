@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://noeddl.github.io/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://noeddl.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/contact/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/de/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/de/about/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/de/contact/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/de/impressum/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/de/privacy/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/de/tags/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/impressum/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/privacy/</loc>
+    </url>
+    <url>
+        <loc>https://noeddl.github.io/tags/</loc>
+    </url>
+</urlset>
