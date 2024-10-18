@@ -210,7 +210,6 @@ allowed_domains = [
     { directive = "script-src", domains = ["'unsafe-inline'", "https://tally.so"] },
     { directive = "style-src", domains = ["'self'", "'unsafe-inline'"] },
     { directive = "frame-src", domains = ["https://tally.so"] }, #, "player.vimeo.com", "https://www.youtube-nocookie.com"] },
-    { directive = "connect-src", domains = ["https://anett.goatcounter.com/count"] },
 ]
 
 # Enable the CSP directives configured (or default).
