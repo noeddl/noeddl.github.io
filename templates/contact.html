@@ -1,0 +1,9 @@
+{% extends "info-page.html" %}
+
+{%- block main_content %}
+    {{ super() }}
+{%- endblock main_content %}
+
+{% block scripts %}
+    <script src="{{ get_url(path='js/tally_embed.js') }}"></script>
+{% endblock scripts %}
