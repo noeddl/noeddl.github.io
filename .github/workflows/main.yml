@@ -1,4 +1,4 @@
-name: Build and deploy Zola on GitHub Pages
+name: Build and deploy Zola to FTP
 
 on:
   push:
@@ -29,8 +29,19 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive # Ensure all submodules are fetched
-      - name: Build and deploy
+      - name: Build Zola site
         uses: shalzz/zola-deploy-action@v0.19.2
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- 
+          BUILD_ONLY: true
+      - name: Upload via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./public/
+          server-dir: ./
+          protocol: ftps
+          # See https://github.com/SamKirkland/FTP-Deploy-Action/issues/146
+          state-name: ../.ftp-deploy-sync-state.json
+          log-level: verbose
