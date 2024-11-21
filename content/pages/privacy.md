@@ -9,32 +9,10 @@ path = "privacy"
 <h3>Data recording on this website</h3> <h4>Who is the responsible party for the recording of data on this website (i.e., the &ldquo;controller&rdquo;)?</h4> <p>The data on this website is processed by the operator of the website, whose contact information is available under section <a href="#information-about-the-responsible-party">&ldquo;Information about the responsible party (referred to as the &ldquo;controller&rdquo; in the GDPR)&rdquo;</a> in this Privacy Policy.</p> <h4>How do we record your data?</h4> <p>We collect your data as a result of your sharing of your data with us. This may, for instance be information you enter into our contact form.</p> <p>Other data shall be recorded by our IT systems automatically or after you consent to its recording during your website visit. This data comprises primarily technical information (e.g., web browser, operating system, or time the site was accessed). This information is recorded automatically when you access this website.</p> <h4>What are the purposes we use your data for?</h4> <p>A portion of the information is generated to guarantee the error free provision of the website. Other data may be used to analyze your user patterns.</p> <h4>What rights do you have as far as your information is concerned?</h4> <p>You have the right to receive information about the source, recipients, and purposes of your archived personal data at any time without having to pay a fee for such disclosures. You also have the right to demand that your data are rectified or eradicated. If you have consented to data processing, you have the option to revoke this consent at any time, which shall affect all future data processing. Moreover, you have the right to demand that the processing of your data be restricted under certain circumstances. Furthermore, you have the right to log a complaint with the competent supervising agency.</p> <p>Please do not hesitate to contact us at any time if you have questions about this or any other data protection related issues.</p>
 <h3>Analysis tools and tools provided by third parties</h3> <p>There is a possibility that your browsing patterns will be statistically analyzed when your visit this website. Such analyses are performed primarily with what we refer to as analysis programs.</p> <p>For detailed information about these analysis programs please consult our Data Protection Declaration below.</p>
 <h2>2. Hosting</h2>
-Our hosting provider collects the following data in so-called log files, which your browser transmits:
+<p>We are hosting the content of our website at the following provider:</p>
+<h3>Hetzner</h3> <p>The provider is the Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen, Germany (hereinafter referred to as Hetzner).</p> <p>For details, please view the data privacy policy of Hetzner: <a href="https://www.hetzner.com/de/legal/privacy-policy/" target="_blank" rel="noopener noreferrer">https://www.hetzner.com/de/legal/privacy-policy/</a>.</p> <p>We use Hetzner on the basis of Art. 6(1)(f) GDPR. We have a legitimate interest in the most reliable depiction of our website possible. If appropriate consent has been obtained, the processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and &sect; 25 (1) TDDDG, insofar the consent includes the storage of cookies or the access to information in the user&rsquo;s end device (e.g., device fingerprinting) within the meaning of the TDDDG. This consent can be revoked at any time.</p>
 
-IP address, the address of the previously visited website (Referrer Request Header), date and time of the request, time zone difference to Greenwich Mean Time, content of the request, HTTP status code, amount of data transferred, website from which the request originates, and information about the browser and operating system.
-
-This is necessary to display our website and ensure stability and security. This corresponds to our legitimate interest in accordance with Art. 6(1)(f) GDPR.
-
-There is no tracking, and we do not have direct access to this data.
-
-We use the following hosting provider to provide our website:
-
-GitHub Inc.<br />
-88 Colin P Kelly Jr St<br />
-San Francisco, CA 94107<br />
-United States
-
-This is the recipient of your personal data. This corresponds to our legitimate interest in accordance with Art. 6(1)(f) GDPR, as we do not have to maintain a server in our own facilities. The server is located in the USA.
-
-For more information about your options to object or request deletion regarding GitHub, visit: <a href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages">https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages</a>
-
-You have the right to object to the processing of your data. Whether your objection is successful will be determined by a balancing of interests.
-
-The data will be deleted as soon as the purpose for processing ceases to apply.
-
-The processing of the data mentioned in this section is neither legally nor contractually required. The functionality of the website cannot be guaranteed without this processing.
-
-GitHub has implemented compliance measures for international data transfers. These apply to all global activities in which GitHub processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). For more information, see: <a href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1--the-standard-contractual-clauses-processors">https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors</a>
+<h4>Data processing</h4> <p>We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.</p>
 
 <h2>3. General information and mandatory information</h2>
 <h3>Data protection</h3> <p>The operators of this website and its pages take the protection of your personal data very seriously. Hence, we handle your personal data as confidential information and in compliance with the statutory data protection regulations and this Data Protection Declaration.</p> <p>Whenever you use this website, a variety of personal information will be collected. Personal data comprises data that can be used to personally identify you. This Data Protection Declaration explains which data we collect as well as the purposes we use this data for. It also explains how, and for which purpose the information is collected.</p> <p>We herewith advise you that the transmission of data via the Internet (i.e., through e-mail communications) may be prone to security gaps. It is not possible to completely protect data against third-party access.</p>
